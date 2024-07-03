@@ -12,7 +12,7 @@ Github steps:
 https://git-scm.com/docs/gittutorial
 
 
-
+```
 [rmodak@linux11112 ~]$ ssh-keygen -t ed25519 -C "sas999modak111@gmail.com"
 Generating public/private ed25519 key pair.
 Enter file in which to save the key (/home/rmodak/.ssh/id_ed25519): 
@@ -228,4 +228,5 @@ Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 To github.com:Rimcode-ai/AOS_Project1.git
    3f3f95c..10e52ee  main -> main
 [rmodak@linux11112 AOS_Project1]$ git clone git@github.com:Rimcode-ai/AOS_Project1.git^C
-[rmodak@linux11112 AOS_Project1]$ 
+[rmodak@linux11112 AOS_Project1]$
+```
